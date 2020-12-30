@@ -377,5 +377,4 @@ const mUser = async (user: any) => {
 
 export default mUser;
 ```
-代码GitHub地址: [wechaty_group_managment](https://github.com/HydeDeng/wechaty_group_managment).
 
